@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["statedoc"] = [{"text":"impl&lt;State&gt; Freeze for <a class=\"struct\" href=\"statedoc/struct.ResultSet.html\" title=\"struct statedoc::ResultSet\">ResultSet</a>&lt;State&gt;","synthetic":true,"types":["statedoc::ResultSet"]},{"text":"impl&lt;L, R&gt; Freeze for <a class=\"enum\" href=\"statedoc/enum.Either.html\" title=\"enum statedoc::Either\">Either</a>&lt;L, R&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;L: Freeze,<br>&nbsp;&nbsp;&nbsp;&nbsp;R: Freeze,&nbsp;</span>","synthetic":true,"types":["statedoc::Either"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["ClosedResultSet",""],["CurrentRowResultSet",""],["InsertRowResultSet",""],["InsertedRowResultSet",""],["InsertingRowResultSet",""],["NotYetReadResultSet",""],["OpenResultSet",""],["ReadResultSet",""],["ValidRowResultSet",""]]});
